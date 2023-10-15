@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![logo](https://github.com/thezeeshanali/thezeeshanali.github.io/blob/master/Blue%20and%20White%20Modern%20Business%20LinkedIn%20Article%20Cover%20Image%20(1).png)
 <h1 align="center">Hi 👋, I'm Zeeshan Ali</h1>
 <h3 align="center">A passionate Fullstack developer from Dubai</h3>
 
